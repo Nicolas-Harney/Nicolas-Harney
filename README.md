@@ -16,7 +16,7 @@ Computer Science graduate building **machine learning systems for sport**, with 
 | Project | Description | Tech |
 |---|---|---|
 | [**Premier League Outcome Prediction**](https://github.com/Nicolas-Harney/Premier-League-Prediction-Dissertation) | Dissertation. Multi-phase modelling framework comparing ML baselines, xG-based Poisson models, Negative Binomial / Laplacian distributions and a Bayesian Poisson model. | Python · scikit-learn · TODO |
-| [**Online Auction Platform**] | Full-stack web app with role-based access for users, experts and admins, real-time bidding and messaging via WebSockets. | Flask · SQLAlchemy · Socket.IO |
+| **Online Auction Platform** | Full-stack web app with role-based access for users, experts and admins, real-time bidding and messaging via WebSockets. | Flask · SQLAlchemy · Socket.IO |
 | 🚧 **Live PL Prediction System** | Dissertation models served via an API, logging predictions before each gameweek and tracking accuracy against bookmaker odds. | FastAPI · Docker · TODO |
 | 🚧 **Football LLM** | Fine-tuned small open-source LLM for football analysis, evaluated against base and prompted models. | PyTorch · Hugging Face · QLoRA |
 

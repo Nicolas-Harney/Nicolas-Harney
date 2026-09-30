@@ -15,8 +15,8 @@ Computer Science graduate building **machine learning systems for sport**, with 
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Premier League Outcome Prediction**](TODO-link) | Dissertation. Multi-phase modelling framework comparing ML baselines, xG-based Poisson models, Negative Binomial / Laplacian distributions and a Bayesian Poisson model. | Python · scikit-learn · TODO |
-| [**Online Auction Platform**](TODO-link) | Full-stack web app with role-based access for users, experts and admins, real-time bidding and messaging via WebSockets. | Flask · SQLAlchemy · Socket.IO |
+| [**Premier League Outcome Prediction**](https://github.com/Nicolas-Harney/Premier-League-Prediction-Dissertation) | Dissertation. Multi-phase modelling framework comparing ML baselines, xG-based Poisson models, Negative Binomial / Laplacian distributions and a Bayesian Poisson model. | Python · scikit-learn · TODO |
+| [**Online Auction Platform**] | Full-stack web app with role-based access for users, experts and admins, real-time bidding and messaging via WebSockets. | Flask · SQLAlchemy · Socket.IO |
 | 🚧 **Live PL Prediction System** | Dissertation models served via an API, logging predictions before each gameweek and tracking accuracy against bookmaker odds. | FastAPI · Docker · TODO |
 | 🚧 **Football LLM** | Fine-tuned small open-source LLM for football analysis, evaluated against base and prompted models. | PyTorch · Hugging Face · QLoRA |
 
@@ -27,7 +27,7 @@ Computer Science graduate building **machine learning systems for sport**, with 
 ### 🛠️ Tech Stack
 
 **Languages:** Python · SQL · JavaScript · HTML/CSS
-**ML & Data:** scikit-learn · pandas · NumPy · SciPy · statsmodels · TODO (e.g. PyMC)
-**LLMs & AI:** PyTorch · Hugging Face · TODO
-**Web & Tools:** Flask · SQLAlchemy · Git · TODO
+**ML & Data:** scikit-learn · pandas · NumPy · SciPy · statsmodels · Understat 
+**LLMs & AI:** PyTorch · Hugging Face 
+**Web & Tools:** Flask · SQLAlchemy · Git 
 
